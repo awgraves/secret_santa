@@ -1,0 +1,2 @@
+# ignore the minified jQuery AJAX library
+src/assets/js/libraries/jquery-AJAX.min.js
