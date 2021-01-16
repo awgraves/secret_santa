@@ -7,6 +7,10 @@ I could only use javascript (frameworks like Vue were permissible), HTML & CSS.
 
 I wrote all the code in this project from scratch (with the small exception of the flicking Text CSS). The only external library I utilized was jQuery's AJAX module for the API calls.
 
+<img width="1403" alt="participant_menu" src="https://user-images.githubusercontent.com/34633964/104824880-f1471800-5823-11eb-8bf7-49838fcfe324.png">
+<img width="1407" alt="open_card" src="https://user-images.githubusercontent.com/34633964/104824881-f310db80-5823-11eb-99ea-80b7864566a1.png">
+<img width="782" alt="iphone" src="https://user-images.githubusercontent.com/34633964/104824884-f5733580-5823-11eb-84e9-0b45cc08ec4a.png">
+
 ### Asset Sources:
 Flags: https://countryflags.com
 
