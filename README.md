@@ -1,7 +1,7 @@
 # Secret Santa Application
 This is code I wrote for a frontend coding challenge using Vue.js and VUEX.
 
-The challenge was to create an application that would access the https://randomuser.me API,
+The challenge was to build an application that would access the https://randomuser.me API,
 pull random user data, then create random gift exchanges between these users.  Each user must give and receive 1 gift.
 I could only use javascript (frameworks like Vue were permissible), HTML & CSS.
 
