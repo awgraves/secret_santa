@@ -1,5 +1,5 @@
 # Secret Santa Application
-This is code I wrote for a frontend coding challenge using Vue.js and VUEX.
+This is code I wrote for a frontend coding challenge using Vue.js and VUEX.  I originally worked on this as a private project on my local machine and later decided to convert it into a git repo to upload to github.
 
 The challenge was to build an application that would access the https://randomuser.me API,
 pull random user data, then create random gift exchanges between these users.  Each user must give and receive 1 gift.
